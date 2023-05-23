@@ -1,0 +1,102 @@
+h1 {
+  color: #ffffff;
+  background-color: #2e2f42;
+  font-size: 56px;
+  font-weight: 700;
+}
+a {
+  color: #2e2f42;
+}
+a:hover {
+  color: #404bbf;
+}
+h3 {
+  color: #2e2f42;
+}
+p {
+  color: #434455;
+}
+h2 {
+  color: #2e2f42;
+}
+header {
+  background-color: #ffffff;
+}
+body {
+  font-family: "Roboto", "Raleway" "Helvetica Neue", "Verdana", "Tahoma",
+    sans-serif;
+  color: #2e2f42;
+}
+footer > p {
+  color: #f4f4fd;
+  background-color: #2e2f42;
+}
+.increase {
+  color: #f4f4fd;
+  font-weight: 400;
+  font-size: 16px;
+}
+span.logo {
+  color: #4d5ae5;
+  font-size: 18px;
+  font-family: "Raleway";
+  font-weight: 400;
+}
+span.logo1 {
+  color: #2e2f42;
+  font-size: 18px;
+  font-family: "Raleway";
+  font-weight: 400;
+}
+.contacts a {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+}
+.mail:hover {
+  color: #404bbf;
+  font-size: 16px;
+  font-weight: 400;
+}
+.order {
+  color: #ffffff;
+  background-color: #4d5ae5;
+  font-size: 16px;
+  font-family: "Roboto";
+  font-weight: 500px;
+}
+.order:hover {
+  background-color: #404bbf;
+}
+li button {
+  color: #4d5ae5;
+  background-color: #f4f4fd;
+}
+li button:hover {
+  color: #ffffff;
+  background-color: #404bbf;
+}
+.text {
+  font-size: 20px;
+  font-weight: 500;
+}
+.texth3 {
+  font-size: 20px;
+  font-weight: 500;
+}
+.links {
+  font-size: 16px;
+  font-weight: 500;
+}
+.paragraph {
+  font-size: 16px;
+  font-weight: 400;
+}
+.ourteam {
+  font-weight: 700;
+  font-size: 36px;
+}
+.job {
+  font-weight: 400;
+  font-size: 16px;
+}
